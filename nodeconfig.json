@@ -1,0 +1,11 @@
+{
+  "url": "http://192.168.1.146/aget",
+  "idData": ["hn","dhcp","sip","ssub","sgw","dip","dsub","dgw","sm_n","sm_l","sm_c","sm_ro","sm_rw","sm_tr1","sm_tr2","sm_tr3","sm_tr4","sm_tr5","sm_tr6"],
+  "IntervalTime": 5000,
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "Authorization": "Basic YWRtaW46YWRtaW4="
+  },
+  "filePath": "jsonData/",
+  "fileName":"data.json"
+}
